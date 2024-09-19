@@ -49,3 +49,7 @@ pylint.log
 # Environments
 .env
 *.env
+
+#data
+.arquivos/
+*.db

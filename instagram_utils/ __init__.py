@@ -1,0 +1,1 @@
+# Pode estar vazio ou conter inicializações do pacote. É necessário para que o diretório seja tratado como um pacote Python.
